@@ -1,1 +1,2 @@
-The 12 grid first site
+Business Landing Page
+Using 12 grid
